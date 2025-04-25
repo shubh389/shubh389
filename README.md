@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Shubham Dev</h1>
+
 - 🔭 I’m currently working on smart contract<br>- 🌱 I’m currently learning Blockchain<br>- 💬 Ask me anything about solidity <br>- 📫 How to reach me: shubhamdev9128@gmail.com
 
 
