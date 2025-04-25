@@ -25,7 +25,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=ethereum, solidity,react,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ethereum,react,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Shubham Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
